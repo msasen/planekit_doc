@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/msasen/planekit_doc/tree/82ea7bb8c3c954a25ab3eb5c7b6a518e031ab070",
+            "https://github.com/msasen/planekit_doc/tree/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/msasen/planekit_doc/tree/82ea7bb8c3c954a25ab3eb5c7b6a518e031ab070",
+            "https://github.com/msasen/planekit_doc/tree/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -81,7 +81,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/msasen/planekit_doc/tree/82ea7bb8c3c954a25ab3eb5c7b6a518e031ab070",
+            href: "https://github.com/msasen/planekit_doc/tree/master/",
             label: "GitHub",
             position: "right",
           },
