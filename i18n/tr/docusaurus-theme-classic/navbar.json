@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "PlaneKit",
+    "description": "Navbar'daki başlık"
+  },
+  "item.label.Tutorial": {
+    "message": "Tutorial",
+    "description": "Etiket öğreticisi olan Navbar öğesi"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Etiket Blogu ile Navbar öğesi"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Etiket Github ile Navbar öğesi"
+  }
+}

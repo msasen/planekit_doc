@@ -1,0 +1,8 @@
+{
+  "label": "Receive Data",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "It allows to select different types of mavlink messages without having to deal with the background."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Blog",
+    "description": "SEO'da kullanılan blogun başlığı"
+  },
+  "description": {
+    "message": "Blog",
+    "description": "SEO'da kullanılan blogun açıklaması"
+  },
+  "sidebar.title": {
+    "message": "Recent posts",
+    "description": "Sol kenar çubuğu için etiket"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Sonraki",
+    "description": "Sürüm akımı için etiket"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Öğretici - Temel Bilgiler",
+    "description": "Kategori Öğreticisi Etiketi - Kenar Çubuğu Tutorialsideba'da Temel Bilgilerr"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "En önemli Docusaurus kavramlarını öğrenmek için 5 dakika.",
+    "description": "Kategori Öğreticisi için Oluşturulan Endeks Sayfa Açıklaması - Kenar çubuğunda temel bilgiler TutorialItBar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Öğretici - Ekstralar",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  }
+}

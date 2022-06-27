@@ -1,0 +1,8 @@
+{
+  "label": "Auto Mode",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "It allows to select different types of mavlink messages without having to deal with the background."
+  }
+}
