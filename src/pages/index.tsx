@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Planekit Tutorial - 15min ⏱️
+            Planekit Tutorial - 20min ⏱️
           </Link>
         </div>
       </div>
