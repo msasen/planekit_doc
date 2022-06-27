@@ -18,7 +18,7 @@ pip install planekit
 
 Plankit does not include any built-in simulation. Therefore, you must connect the planekit still or an arduplane installed UAV.
 
-A simple example of starting a still with Mission planar
+A simple example of starting a still with Mission planar.
 
 ![image info](./Misson_plannar.png)
 
